@@ -81,3 +81,21 @@
 </script>        
 </body>
 </html>
+
+
+folders:
+
+sample.txt
+I am a sample text file
+
+
+
+users.json
+[
+    {
+        "id":1,
+        "name":"Rick",
+        "email":"rick@gmail.com"
+
+    }
+]
